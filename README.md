@@ -146,14 +146,3 @@ Click **"Open Chat"** in n8n and type any bug description!
 
 ---
 
-## 👩‍💻 Author
-
-**Dipashree Balamurugan**  
-Aspiring QA Engineer  
-[GitHub](https://github.com/deepashreeee) • [LinkedIn](#)
-
----
-
-## 📄 License
-
-MIT License — feel free to use this project!
